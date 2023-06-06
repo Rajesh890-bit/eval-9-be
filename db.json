@@ -34,6 +34,27 @@
       "Category": "Other",
       "Amount": 1000,
       "Date": "2023-06-01"
+    },
+    {
+      "type": "Expense",
+      "category": "Housing",
+      "amount": "7777",
+      "date": "2023-06-06",
+      "id": 4
+    },
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "amount": "10",
+      "date": "2023-06-27",
+      "id": 5
+    },
+    {
+      "type": "Expense",
+      "category": "Vehicle & Transport",
+      "amount": "10000",
+      "date": "2023-05-09",
+      "id": 6
     }
   ]
 }
