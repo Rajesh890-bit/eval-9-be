@@ -36,25 +36,32 @@
       "Date": "2023-06-01"
     },
     {
-      "type": "Expense",
-      "category": "Housing",
-      "amount": "7777",
-      "date": "2023-06-06",
-      "id": 4
-    },
-    {
-      "type": "Income",
-      "category": "Gifts",
-      "amount": "10",
-      "date": "2023-06-27",
-      "id": 5
-    },
-    {
-      "type": "Expense",
-      "category": "Vehicle & Transport",
-      "amount": "10000",
-      "date": "2023-05-09",
+      "Type": "Expense",
+      "Category": "Vehicle & Transport",
+      "Amount": "10000",
+      "Date": "2023-05-09",
       "id": 6
+    },
+    {
+      "Type": "Income",
+      "Category": "Refunds",
+      "Amount": "222",
+      "Date": "2023-05-28",
+      "id": 7
+    },
+    {
+      "Type": "Expense",
+      "Category": "Lifestyle",
+      "Amount": "22232342",
+      "Date": "2023-01-17",
+      "id": 8
+    },
+    {
+      "Type": "Income",
+      "Category": "Gifts",
+      "Amount": "76",
+      "Date": "2023-01-03",
+      "id": 9
     }
   ]
 }
