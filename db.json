@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password"
+    }
+  ],
+  "tracker": [
+    {
+      "id": 1,
+      "Type": "Income",
+      "Category": "Salary",
+      "Amount": 50000,
+      "Date": "2023-06-05"
+    },
+    {
+      "id": 2,
+      "Type": "Expense",
+      "Category": "Food & Drinks",
+      "Amount": 2500,
+      "Date": "2023-06-03"
+    },
+    {
+      "id": 3,
+      "Type": "Income",
+      "Category": "Other",
+      "Amount": 1000,
+      "Date": "2023-06-01"
+    }
+  ]
+}
